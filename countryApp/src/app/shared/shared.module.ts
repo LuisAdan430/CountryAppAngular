@@ -22,6 +22,7 @@ import { ContacPageComponent } from './pages/contac-page/contac-page.component';
   exports:[
     HomePagesComponent,
     AboutPageComponent,
+    ContacPageComponent,
     SidebarComponent
   ]
 })
